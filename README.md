@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueBloxKraft
 - 👀 I’m interested in making Minecraft PvP Clients
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently learning Java
 
 My [Website](https://bluebloxkraft.github.io)
 

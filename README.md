@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @BlueBloxKraft
-- 👀 I’m interested in making Minecraft PvP Clients
+- 👋 Hi, I’m @bluebloxkraft
+- 👨 My pronouns are he/him
+- 👀 I’m interested in modding Minecraft and other general code stuff
 - 🌱 I’m currently learning Java
 
 My [Website](https://bluebloxkraft.github.io)

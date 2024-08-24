@@ -1,6 +1,9 @@
 ● 👋 Hi, I’m [BlueBloxKraft](https://github.com/bluebloxkraft)
-● 👨 My pronouns are he/him
+
+● 👨 My pronouns are he/him 
+
 ● 👀 I’m interested in modding Minecraft and programming in general 
+
 ● 🌱 I’m currently learning Java
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlueBloxKraft&show_icons=true&theme=dark)
